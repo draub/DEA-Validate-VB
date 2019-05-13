@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.352
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DEA Verify VB", "DEA Verify VB\DEA Verify VB.vbproj", "{FF964785-A841-4C77-8F1F-892A7F042DFF}"
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DEA Validate VB", "DEA Verify VB\DEA Validate VB.vbproj", "{FF964785-A841-4C77-8F1F-892A7F042DFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

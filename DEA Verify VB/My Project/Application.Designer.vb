@@ -32,7 +32,7 @@ Namespace My
 
         <Global.System.Diagnostics.DebuggerStepThroughAttribute()> _
         Protected Overrides Sub OnCreateMainForm()
-            Me.MainForm = Global.DEA_Verify_VB.frmDeaVerify
+            Me.MainForm = Global.DEA_Verify_VB.frmDeaValidate
         End Sub
     End Class
 End Namespace
