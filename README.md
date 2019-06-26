@@ -22,4 +22,4 @@ Winforms
 
 ## License:  
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/draub/DEA-Validate-VB/blob/master/LICENSE) file for details
